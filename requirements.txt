@@ -1,0 +1,6 @@
+pandas
+langchain_core
+langchain_astradb
+python-dotenv
+
+-e .
