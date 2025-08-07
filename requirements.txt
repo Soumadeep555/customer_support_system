@@ -2,5 +2,6 @@ pandas
 langchain_core
 langchain_astradb
 python-dotenv
+langchain_google_genai
 
 -e .
